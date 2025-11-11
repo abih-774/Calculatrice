@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.marhane.calculatrice.CalculatriceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-11-05T14:57:34.070Z" hostname="morocco-Latitude-E5450" time="0.002">
+<testsuite name="com.marhane.calculatrice.CalculatriceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-11-11T14:30:03.983Z" hostname="morocco-Latitude-E5450" time="0.006">
   <properties/>
-  <testcase name="testSum()" classname="com.marhane.calculatrice.CalculatriceTest" time="0.002"/>
+  <testcase name="testSum()" classname="com.marhane.calculatrice.CalculatriceTest" time="0.006"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
