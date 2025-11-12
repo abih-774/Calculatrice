@@ -73,6 +73,12 @@ pipeline {
                 reportFiles: 'index.html',
                 reportName: 'Rapport JaCoCo HTML'
             ])
+            mail to :'hibamarhane82@gmail.com',
+                subject: "Notification de l'état de compilation est terminée :${currentBuild.fullDisplayName}",
+                body:"Votre build est accompli , Veuillez vérifier :${env.BUILD_URL}"
+
         }
+   
     }
 }
+
